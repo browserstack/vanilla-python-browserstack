@@ -19,7 +19,7 @@ platforms:
 parallelsPerPlatform: 1
 browserstackAutomation: true
 browserstackLocal: true
-source: vanilla-python-browserstack:sample-sdk:v1.0
+source: python:sample-sdk:v1.0
 testObservability: true
 debug: false
 networkLogs: false
